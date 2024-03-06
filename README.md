@@ -11,3 +11,9 @@ cd /var/www/html
 
 # How to edit the webpage
 If you wish to edit the homepage (index.html) 
+Run:
+vim index.html 
+OR
+nano index.html
+
+-From here, edit the code and save it. 
